@@ -1,6 +1,6 @@
 # Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes
 
-[**Project page**](https://sparkstj.github.io/talk2move) | [**Paper**](https://arxiv.org/abs/2412.03552) | [**Video**](https://youtu.be/bVQ3vUxTAmM)
+[**Project page**](https://sparkstj.github.io/talk2move) | [**Paper**](hhttps://arxiv.org/abs/2601.02356) | [**Video**](https://youtu.be/bVQ3vUxTAmM)
 
 
 
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<a href="https://arxiv.org/abs/2412.03552"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="https://arxiv.org/abs/2601.02356"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 <a href="https://sparkstj.github.io/talk2move"><img src="https://img.shields.io/badge/Project-Website-red"></a>
 <a href="https://youtu.be/bVQ3vUxTAmM"><img src="https://img.shields.io/static/v1?label=Demo&message=Video&color=orange"></a>
 <a href="" target='_blank'>
