@@ -33,11 +33,14 @@ Jing Tan: [tj023@ie.cuhk.edu.hk](mailto:tj023@ie.cuhk.edu.hk)
 If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
 
 ```bibtex
-@article{tan2024imagine360,
-  title={Imagine360: Immersive 360 Video Generation from Perspective Anchor},
-  author={Tan, Jing and Yang, Shuai and Wu, Tong and He, Jingwen and Guo, Yuwei and Liu, Ziwei and Lin, Dahua},
-  journal={arXiv preprint arXiv:2412.03552},
-  year={2024}
+@misc{tan2026talk2movereinforcementlearningtextinstructed,
+      title={Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes}, 
+      author={Jing Tan and Zhaoyang Zhang and Yantao Shen and Jiarui Cai and Shuo Yang and Jiajun Wu and Wei Xia and Zhuowen Tu and Stefano Soatto},
+      year={2026},
+      eprint={2601.02356},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.02356}, 
 }
 ```
 
